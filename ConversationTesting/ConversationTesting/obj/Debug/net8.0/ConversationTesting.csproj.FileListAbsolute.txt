@@ -1,0 +1,14 @@
+C:\Users\Jake\source\repos\ConversationTesting\ConversationTesting\bin\Debug\net8.0\ConversationTesting.exe
+C:\Users\Jake\source\repos\ConversationTesting\ConversationTesting\bin\Debug\net8.0\ConversationTesting.deps.json
+C:\Users\Jake\source\repos\ConversationTesting\ConversationTesting\bin\Debug\net8.0\ConversationTesting.runtimeconfig.json
+C:\Users\Jake\source\repos\ConversationTesting\ConversationTesting\bin\Debug\net8.0\ConversationTesting.dll
+C:\Users\Jake\source\repos\ConversationTesting\ConversationTesting\bin\Debug\net8.0\ConversationTesting.pdb
+C:\Users\Jake\source\repos\ConversationTesting\ConversationTesting\obj\Debug\net8.0\ConversationTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jake\source\repos\ConversationTesting\ConversationTesting\obj\Debug\net8.0\ConversationTesting.AssemblyInfoInputs.cache
+C:\Users\Jake\source\repos\ConversationTesting\ConversationTesting\obj\Debug\net8.0\ConversationTesting.AssemblyInfo.cs
+C:\Users\Jake\source\repos\ConversationTesting\ConversationTesting\obj\Debug\net8.0\ConversationTesting.csproj.CoreCompileInputs.cache
+C:\Users\Jake\source\repos\ConversationTesting\ConversationTesting\obj\Debug\net8.0\ConversationTesting.dll
+C:\Users\Jake\source\repos\ConversationTesting\ConversationTesting\obj\Debug\net8.0\refint\ConversationTesting.dll
+C:\Users\Jake\source\repos\ConversationTesting\ConversationTesting\obj\Debug\net8.0\ConversationTesting.pdb
+C:\Users\Jake\source\repos\ConversationTesting\ConversationTesting\obj\Debug\net8.0\ConversationTesting.genruntimeconfig.cache
+C:\Users\Jake\source\repos\ConversationTesting\ConversationTesting\obj\Debug\net8.0\ref\ConversationTesting.dll
