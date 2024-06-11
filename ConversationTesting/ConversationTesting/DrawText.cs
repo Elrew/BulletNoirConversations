@@ -11,11 +11,13 @@ namespace ConversationTesting
 
        
 
-        public static void DrawPlayerOptions(List<string> i )
+        public static void DrawPlayerOptions(List<string> i, int x, int y )
         {
             foreach ( var line in i )
             {
+                Console.SetCursorPosition( x, y );
                 Console.WriteLine( line );
+                y++;
             }
         }
     }
