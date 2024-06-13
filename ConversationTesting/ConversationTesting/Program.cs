@@ -28,6 +28,10 @@ namespace ConversationTesting
                 }
                 Console.SetCursorPosition(0, 0);
                 Console.WriteLine("Ending loop, going again");
+                if (!OpeningConversation.classRunning)
+                {
+                    running = false;
+                }
             }
 
         }
